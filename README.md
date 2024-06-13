@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shubham-99-96
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning AWS, Docker 
-- 💞️ I’m looking to collaborate on Liunx 
+- 👀 I’m cloud engineer
 - 📫 How to reach me naglotshubham@gmail.com
 
 <!---
